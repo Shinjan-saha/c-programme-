@@ -1,5 +1,5 @@
 ### c-programme- this repo contain all  basics my c programme  
- ##### Currently this repo has 9 c programme which i have practiced:-
+ ##### Currently this repo has  c programme which i have practiced:-
  ##### I will name the question according to the file name so it easy for viewers to navigate
  ###### 13.c= Find sum of first k digits after decimal. For k=3 output 3+1+5=9.
  ###### 14.c= Sum of k digits before decimal. For k=3 output 2+5+4=11.
@@ -13,5 +13,6 @@
  ###### 19.c= write me a c program to exchange last & third last 
  ###### 20.c= write a program in c to read one more integer (k) and print kth last digit
  ###### 21.c= write me a c program to print second last digit of a integer
-
+ ###### pattern123.c= to write c program to print a pattern
+ ###### pattern5555.c= to write a c program to print a pattern.
  
